@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/tranquoctuyen/Controller/RecordController.java=UTF-8
+encoding//src/main/java/com/tranquoctuyen/Controller/StaffController.java=UTF-8
+encoding//src/main/java/com/tranquoctuyen/dao/StaffDao.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/actiondepart.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/demo.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/depart.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/editstaff.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/index.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/menu.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/muster.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/navbar-top.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/newStaff.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/staff.jsp=UTF-8
+encoding/<project>=UTF-8
